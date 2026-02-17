@@ -6,7 +6,7 @@ An accessibility-first, audio-centric Winter Olympics companion web application.
 
 ## 🎥 Demo
 
-[![WinterStream Demo]](https://www.youtube.com/watch?v=ghlbL9g7NKg)
+[![Scrapple Demo]]((https://www.youtube.com/watch?v=OUFqMJpIZSo))
 
 *Click to watch the full demonstration video*
 
