@@ -3,12 +3,12 @@
 An accessibility-first, audio-centric Winter Olympics companion web application. This app allows users to watch Winter Olympics events while receiving AI-powered accessible commentary and the ability to ask questions about what's happening.
 
 ---
-
 ## 🎥 Demo
 
-[![WinterStream Demo]]((https://www.youtube.com/watch?v=OUFqMJpIZSo))
-
-*Click to watch the full demonstration video*
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=OUFqMJpIZSo">
+  </a>
+</div>
 
 ---
 
