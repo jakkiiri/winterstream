@@ -4,12 +4,7 @@ An accessibility-first, audio-centric Winter Olympics companion web application.
 
 ---
 ## 🎥 Demo
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=OUFqMJpIZSo">
-  </a>
-</div>
-
+https://www.youtube.com/watch?v=OUFqMJpIZSo
 ---
 
 ## Features
